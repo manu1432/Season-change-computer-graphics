@@ -1,1 +1,1 @@
-# Season-change-computer-graphucs
+# Season-change-computer-graphics
