@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: season_change, Configuration: Debug Win32 ------
+1>season_change.cpp
+1>season_change.vcxproj -> C:\Users\manur\source\repos\season_change\Debug\season_change.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
